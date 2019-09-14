@@ -11,5 +11,6 @@ Strong in C/C++, Python, OpenCL.
 Learning Korean and Spanish (very little).
 
 ### Currently working on
-<Accelerated C++> [solutions](https://github.com/WillyCilly/learning-zone/tree/master/cplusplus/exercise)
-OpenCL: [softmax](https://github.com/WillyCilly/learning-zone/tree/master/opencl/opencl_cpp/softmax)
+1. <Accelerated C++> [solutions](https://github.com/WillyCilly/learning-zone/tree/master/cplusplus/exercise)
+
+2. OpenCL: [softmax](https://github.com/WillyCilly/learning-zone/tree/master/opencl/opencl_cpp/softmax)
