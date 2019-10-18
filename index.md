@@ -14,3 +14,4 @@ Learning Korean and Spanish (very little).
 1. <Accelerated C++> [solutions](https://github.com/WillyCilly/learning-zone/tree/master/cplusplus/exercise)
 
 2. OpenCL: [softmax](https://github.com/WillyCilly/learning-zone/tree/master/opencl/opencl_cpp/softmax)
+           [matrix multiplication](https://github.com/WillyCilly/learning-zone/tree/master/opencl/opencl_cpp/gemm)
